@@ -1,0 +1,1 @@
+This is a test file lol! I will decode it later by dropping it inside the "input" folder. :)
