@@ -40,8 +40,9 @@ This project takes advantage of:
 
 #### Northern E-Commerce
 It should be noted I stole the entire idea of hiding text inside images from Northern E-Commerce,
- they use it as a hiring strategy shown in the image below.
- ![Devtools on Norther.co's website](https://i.imgur.com/qxGkzHb.png)
+they use it as a hiring strategy shown in the image below.
+![Devtools on Norther.co's website](https://i.imgur.com/qxGkzHb.png)
+
 So uh thanks Northern I guess? I would ask for an interview but I hate web design. 
 
 #### Get-Pixels
